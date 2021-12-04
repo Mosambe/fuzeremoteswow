@@ -4,7 +4,7 @@
 1. Lataa Twitch Emotes addon https://legacy-wow.com/classic-addons/twitchemotes-classic/
 2. Lisää addon wowin Interface/AddOns kansioon
 3. Lataa fuzeremotes klikkaamalla oikeassa yläkulmassa olevaa Code->Download ZIP
-4. Pura fuzeremoteswow-man/fuzeremotes kansion sisältö TwitchEmotes kansioon
+4. Pura fuzeremoteswow-main/fuzeremotes kansion sisältö TwitchEmotes kansioon
 5. Korvaa/replace TwitchEmotes.lua tiedosto uudella
 
 Erona lua tiedostossa vain seuraavat lisäykset:
